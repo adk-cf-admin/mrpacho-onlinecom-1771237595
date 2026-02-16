@@ -1,0 +1,5 @@
+User-agent: * 
+Allow: / 
+Disallow: /casino/
+Host: https://mrpacho-online.com/
+Sitemap: https://mrpacho-online.com/sitemap.xml
